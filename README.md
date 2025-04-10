@@ -2,6 +2,7 @@
 
 > **Flet 💫** 
 the full frontend using python flet and it free everyone can use it 
+<pre><code>pip install "all[fleet"] --upgrade</code></pre>
 
 **School management system that contain:**
 ```
