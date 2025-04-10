@@ -1,3 +1,4 @@
+[![flet] (https://discord.com/invite/SDeuykaj)]
 # school management systems using flet
 
 > **Flet 💫** 
