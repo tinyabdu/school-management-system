@@ -3,7 +3,7 @@
 > **Flet 💫** 
 the full frontend using python flet and it free everyone can use it 
 
-**School management system that contain**
+**School management system that contain:**
 ```
 Admin app 
 Student app
