@@ -1,6 +1,6 @@
 # school management systems using flet
 
-**Flet 💫** 
+> **Flet 💫** 
 the full frontend using python flet and it free everyone can use it 
 
 admin app // teachers and school administration can add students and more about it 
