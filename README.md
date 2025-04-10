@@ -1,4 +1,4 @@
-#school management systems using flet
+# school management systems using flet
 
 the full frontend using python flet and it free everyone can use it 
 
