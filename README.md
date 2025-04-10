@@ -5,7 +5,7 @@ the full frontend using python flet and it free everyone can use it
 
 
 
-$ <pre><code>pip install "all[flet]" --upgrade</code></pre>
+<pre><code>pip install "all[flet]" --upgrade</code></pre>
 
 
 **School management system that contain:**
