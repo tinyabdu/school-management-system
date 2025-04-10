@@ -2,6 +2,8 @@
 
 > **Flet 💫** 
 the full frontend using python flet and it free everyone can use it 
+
+
 <button onclick="navigator.clipboard.writeText('pip install python')">📋 Copy</button>
 <pre><code>pip install "all[flet]" --upgrade</code></pre>
 <button onclick="navigator.clipboard.writeText('pip install python')">Copy</button>
