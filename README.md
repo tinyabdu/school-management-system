@@ -3,7 +3,7 @@
 > **Flet 💫** 
 the full frontend using python flet and it free everyone can use it 
 <pre><code>pip install "all[flet]" --upgrade</code></pre>
-<button on click="navigator.clipboard.writeText("pip Install "all[flet]" --upgrade")>Install flet</button>
+<button onclick="navigator.clipboard.writeText("pip Install "all[flet]" --upgrade")>Install flet</button>
 
 **School management system that contain:**
 ```
