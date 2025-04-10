@@ -12,4 +12,6 @@ Student app
 admin app // teachers and school administration can add students and more about it 
 students app // students can login and see results, time table, event, even check books from library and use AI 
 
-<sub>to learn more about flet check [flet official website],  (https://flet.dev/).</sub>
+to learn more about flet check [flet official website],  (https://flet.dev/).
+
+<sub>from tiny</sub>
