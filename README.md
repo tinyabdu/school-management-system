@@ -10,7 +10,7 @@ Student app
 ```
 
 > **Admin app:**</br> <sub> dashboard that contains everything for students and teachers school can register and manage students </sub></br>
-> **students app:** <sub> students can login and see result and even pay school fees, check school news and read some books from virtual library I even add AI that can helps students</sub>
+> **students app:**</bro> <sub> students can login and see result and even pay school fees, check school news and read some books from virtual library I even add AI that can helps students</sub>
 
 <sub>to learn more about flet check [click here](https://flet.dev/).</sub>
 
