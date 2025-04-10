@@ -9,8 +9,9 @@ Admin app
 Student app
 ```
 
-##Admin app: <p>teachers and school administration can add students and more about it</p></br>
-students app // students can login and see results, time table, event, even check books from library and use AI 
+## Admin app: <p>dashboard that contains everything for students and teachers school can register and manage students </p></br>
+## students app: <p
+students can login and see results, time table, event, even check books from library and use AI</p>
 
 <sub>to learn more about flet check [click here](https://flet.dev/).</sub>
 
